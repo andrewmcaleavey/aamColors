@@ -1,2 +1,2 @@
 # aamColors
-color palettes
+Just a few color palettes I like.
